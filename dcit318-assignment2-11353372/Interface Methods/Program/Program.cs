@@ -24,7 +24,7 @@ class Car : IMovable
 {
     public void Move()
     {
-        Console.WriteLine("Car is Moving...");
+        Console.WriteLine("Car is Moving....");
     }
 }
 
